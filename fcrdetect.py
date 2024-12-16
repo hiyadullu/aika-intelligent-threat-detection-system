@@ -4,7 +4,7 @@ import numpy as np
 import cv2
 
 # Path to the dataset directory where the images are stored
-dataset_dir = r"dataset"  # Updated path
+dataset_dir = r"dataset"  # Add path to dataset
 
 # Lists to store known face encodings and names
 known_face_encodings = []
